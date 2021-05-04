@@ -1,4 +1,4 @@
-package adapters;
+package customerManagementSystem.adapters;
 
 import java.rmi.RemoteException;
 

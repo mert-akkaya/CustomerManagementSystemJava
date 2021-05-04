@@ -1,8 +1,9 @@
 package customerManagementSystem;
 
 import java.sql.Date;
-import adapters.MernisServiceAdapter;
+
 import customerManagementSystem.abstracts.BaseCustomerManager;
+import customerManagementSystem.adapters.MernisServiceAdapter;
 import customerManagementSystem.concrete.NeroCustomerManager;
 import customerManagementSystem.concrete.StarbucksCustomerManager;
 import customerManagementSystem.entities.Customer;
